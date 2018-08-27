@@ -1,0 +1,80 @@
+body, html {
+font-family: 'OpenSans';
+height: 100%;
+margin: 0;
+}
+.mainbg {
+/* The image used */
+background-image: url("../images/armando-ascorve-morales-155473-unsplash.jpg");
+width: 100%;
+height: 100%;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+input[type=text] {
+width: 25%;
+-webkit-transition: width 0.4s ease-in-out;
+transition: width 0.4s ease-in-out;
+}
+/* When the input field gets focus, change its width to 100% */
+input[type=text]:focus {
+width: 50%;
+}
+input{
+margin: 10px auto;
+padding: auto;
+}
+.menu{
+max-width: 50%;
+margin: 0px auto;
+padding: 15px;
+}
+.link{
+color: rgb(246, 250, 250);
+font-family: 'OpenSans';
+font-size: 1.2em;
+}
+.link:hover{
+color: red;
+text-decoration: none;
+}
+.name{
+margin: 50px auto;
+text-align: center;
+font-size: 12em;
+letter-spacing: 20px;
+color: rgb(246,246,246);
+font-family: 'Fredericka';
+}
+/*.searchbar{
+background-color: rgba(255,255,255, 0.1);
+padding: 10px;
+}*/
+.form-control-borderless {
+border: none;
+}
+.form-control-borderless:hover, .form-control-borderless:active, .form-control-borderless:focus {
+border: none;
+outline: none;
+box-shadow: none;
+}
+@media only screen and (max-width: 920px) {
+	body{
+		margin: 0;
+	}
+.name{
+max-width: 80%;
+height: auto;
+font-size: 4em;
+margin: auto;
+text-align: center;
+}
+searchbar{
+max-width: 50%;
+}
+/*.menu{
+max-width: 10%;
+margin: 5px auto;
+}*/
+}

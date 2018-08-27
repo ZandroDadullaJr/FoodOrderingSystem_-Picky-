@@ -1,0 +1,10 @@
+/* Orbitron Regular */
+@font-face{
+ 	font-family: 'Fredericka';
+	src: url('../fonts/Fredericka_the_Great/FrederickatheGreat-Regular.ttf') format('truetype');
+}
+/* Open Sans */
+@font-face{
+	font-family: 'OpenSans';
+	src: url('../fonts/OpenSans/OpenSans-Regular.ttf') format('truetype');
+}	
