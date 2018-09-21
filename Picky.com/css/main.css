@@ -91,13 +91,20 @@ text-align: center;
 }
 
 .box{
+border-radius: 25px;
 background-color: #513d23b3;
 padding: 50px;
 
 }
 
 .aboutwrap{
+
 display: table;
 margin: auto;
 width: 70%;
+}
+
+.return{
+	text-align: center;
+	color: rgb(246, 250, 250);
 }
