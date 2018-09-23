@@ -1,7 +1,7 @@
 # Food Ordering System "Picky"
 Web Based application for food ordering system
 
-![alt text](https://github.com/ZandroDadullaJr/FoodOrderingSystem_-Picky-/blob/master/Picky.com/picky.png)
+![alt text](https://github.com/ZandroDadullaJr/FoodOrderingSystem_-Picky-/blob/master/Picky.com/pickyV2.png)
 
 
 NOTE:
