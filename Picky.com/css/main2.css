@@ -1,0 +1,83 @@
+.about p{
+	text-align: justify;
+}
+.recommend{
+		text-align: center;
+		color: rgb(246,246,246);
+		font-size: 20px;
+		letter-spacing: 3px;
+		background-color: rgba(87, 96, 111,0.3);
+		border-radius: 20px;
+		width: 80%;
+		margin: auto;
+		}
+		.nearby{
+			color: rgb(241, 242, 246);
+		}
+		.nearby:hover{
+		color:black;
+		cursor: pointer;
+		}
+		.about{
+			height: 100%;
+			color: rgb(246, 250, 250);
+			font-size: 22px;
+			 text-align: center; 
+			 margin-bottom: 25px; 
+		}
+		h2{
+			font-size: 30px;
+		}
+		.aboutwebsite, .meetdevs{
+			display: inline-block;
+			margin: auto;
+			margin: 35px auto;
+			max-width: 50%;
+		}
+		.aboutwebsite{
+		padding: 10px;
+		float: left;
+		}
+		.meetdevs{
+		padding: 10px;
+		 float: left; 
+		}
+		.box{
+		background-color: rgba(235, 50, 15,1);
+		height: inherit;
+		padding: 50px;
+		text-align: center;
+		}
+		.logo{
+		background-image: url("testImage.png");
+		width: 100%;
+		height: 100%;
+		background-position: center;
+		background-repeat: no-repeat;
+		background-size: cover;
+		}
+
+.logo{
+	background-image: url("testImage.png");
+	width: 100%;
+	height: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+#aboutsign{
+	margin: 30px;
+	font-size: 3em;
+}
+
+.wrappercontacts{
+	display: block;
+}
+
+.contacts, .contacts2{
+	display: flow-root;
+}
+
+.contacts2{
+	
+}
