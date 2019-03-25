@@ -13,3 +13,9 @@ NOTE:
   
   * Please add a support for mobile devices
 
+Developers:
+      Dadulla, Zandro Jr. P.
+      De Leon, Keanu Dave S.
+      Del Mundo, John Airish C.
+      Jasareno, Rannie H.
+      Roman, John Kevin R.
